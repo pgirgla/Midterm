@@ -1,5 +1,6 @@
 /*
 COLOR PALETTE
+<<<<<<< HEAD
 Choose a color palette and paste the hex codes here to use below
 https://coolors.co/
 
@@ -8,6 +9,14 @@ Keep these two:
 #F7FFF7 light color for fonts on a dark background
 
 Add your colors here...
+=======
+/* CSS HEX */
+--vanilla: #d4e09bff;
+--tea-green: #cbdfbdff;
+--light-yellow: #f6f4d2ff;
+--atomic-tangerine: #f19c79ff;
+--chestnut: #a44a3fff;
+>>>>>>> 529ee71f9314c94bd813eaedd205d9b5f898e8c2
 */
 
 
@@ -20,11 +29,20 @@ html {
     box-sizing: inherit;
   }
   
+<<<<<<< HEAD
   body {
     color: #343434;
     margin: 0;
     padding: 0;
     font-family: Arial, Helvetica, sans-serif;
+=======
+  
+  body {
+    color: #f6f4d2ff;
+    margin: 0;
+    padding: 0;
+    font-family:'Roboto', sans-serif ;
+>>>>>>> 529ee71f9314c94bd813eaedd205d9b5f898e8c2
     font-size: 18px;
     line-height: 1.5;
   }
